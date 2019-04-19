@@ -1,0 +1,1 @@
+!function(e){"use strict";e(window).on("load",function(){e(".spinner").fadeOut(),e(".preloader").delay(350).fadeOut("slow")})}(jQuery);
